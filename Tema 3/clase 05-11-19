@@ -1,0 +1,14 @@
+# Sockets de Microprocesador y nuestro museo.
+
+## Tipos de Sockets del micro
+
+* LGA
+* ZIF (ZERO INSERTION FORCE) fue una extensión del socket PGA con pines en la CPU. Con ZIF no hace falta que realices presión sobre el micro para colocarlo, de ese modo disminuye el problema de dañar el micro ( que es una pieza bastante cara dentro de los elementos de la placa base)
+* PGA (PING GRID ARRAY)
+* BGA
+
+## Últimos Sockets 2019 - 2020
+
+LGA 1151
+
+![LGA 1151]https://upload.wikimedia.org/wikipedia/commons/6/67/Socket_1151_closed_01.jpg "lga 1151")
