@@ -1,5 +1,5 @@
 ## Gestión de discos duros a través de PowerShell
-===
+***
 
 ### Obtener información del disco
 
@@ -40,11 +40,13 @@ Y por último necesitamos realizar esta acción y veremos el disco duro en el ex
 ```
 
 *** Obtener información sobre ordenadores remotos, ocupación del disco
+
+ ```
  Get-WMIobject win32_LogicalDisk -ComputerName $computers -filter "DriveType=3" |
                 Select-Object SystemName, DeviceID, VolumeName,
                 @{Name="Size(GB)"; Expression={"{0:N1}" -f($_.size/1gb)}},
                 @{Name="FreeSpace(GB)"; Expression={"{0:N1}" -f($_.freespace/1gb)}},
                 @{Name="% FreeSpace(GB)"; Expression={"{0:N2}%" -f(($_.freespace/$_.size)*100)}},
                 @{Name="Date"; Expression={$(Get-Date -format 'g')}} 
-                
+ ```               
                 
