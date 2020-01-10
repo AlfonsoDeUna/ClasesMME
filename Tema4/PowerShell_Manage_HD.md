@@ -51,4 +51,6 @@ Y por último necesitamos realizar esta acción y veremos el disco duro en el ex
  ```               
  
  Para más información: https://www.signalwarrant.com/remotely-retrieve-disk-space-size-freespace-freespace-powershell/
+                       https://www.red-gate.com/simple-talk/sysadmin/powershell/disk-space-monitoring-and-early-warning-with-powershell/
+                       
  
