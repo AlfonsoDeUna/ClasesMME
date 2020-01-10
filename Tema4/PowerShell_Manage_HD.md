@@ -23,7 +23,7 @@ El disco desaparecerá y ahora lo inicializamos
 > Initialize-Disk 0
 ```
 
-##Creamos una nueva partición
+###Creamos una nueva partición
 
 ```
 > New-Partition -DiskNumber 0 -UseMaximumSize| Format-Volume -FileSystem NTFS -NewFileSystemLabel Archive
@@ -39,7 +39,7 @@ Y por último necesitamos realizar esta acción y veremos el disco duro en el ex
 > Get-Partition - DiskNumber 0 | Set-Partition -newDriveLetter D:
 ```
 
-*** Obtener información sobre ordenadores remotos, ocupación del disco
+### Obtener información sobre ordenadores remotos, ocupación del disco
 
  ```
  Get-WMIobject win32_LogicalDisk -ComputerName $computers -filter "DriveType=3" |
@@ -49,4 +49,6 @@ Y por último necesitamos realizar esta acción y veremos el disco duro en el ex
                 @{Name="% FreeSpace(GB)"; Expression={"{0:N2}%" -f(($_.freespace/$_.size)*100)}},
                 @{Name="Date"; Expression={$(Get-Date -format 'g')}} 
  ```               
-                
+ 
+ Para más información: https://www.signalwarrant.com/remotely-retrieve-disk-space-size-freespace-freespace-powershell/
+ 
