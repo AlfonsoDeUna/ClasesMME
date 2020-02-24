@@ -18,7 +18,7 @@ Los equipos tendrán que juntar toda la información en el proyecto dando sentid
 Montar máquina virtual en XP donde analizar el software que vamos posteriormente a analizar.
 
 
-### Responde a las siguientes preguntas:
+### Responde a las siguientes preguntas: (individual)
 
 * ¿Qué es el Benchmarking?
 * ¿Para qué vamos a utilizar el benchmarking?
