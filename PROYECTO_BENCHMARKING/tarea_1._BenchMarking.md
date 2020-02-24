@@ -24,7 +24,7 @@ Montar máquina virtual en XP donde analizar el software que vamos posteriorment
 * ¿Para qué vamos a utilizar el benchmarking?
 
 
-Puedes utilizar los siguientes links pero también tienes más páginas por internet. Yo te propongo alguna deellas
+Puedes utilizar los siguientes links pero también tienes más páginas por internet.
 https://www.inget.es/gaming/que-son-los-benchmarks-y-como-te-ayudan-en-tu-experiencia-gaming/
 
 * ¿Qué aplicaciones de Benchmarking aparecen en el artículo?
