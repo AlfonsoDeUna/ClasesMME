@@ -1,4 +1,5 @@
-## Actividad 1: El Benchmarking
+## Actividad 1: El Benchmarking 
+## Proyecto: AGP (Atomic Graphic Project)
 
 [![](http://img.youtube.com/vi/kl9ErL9BM68/0.jpg)](http://www.youtube.com/watch?v=kl9ErL9BM68 "Introducción al proyecto Benchmarking")
 
@@ -44,10 +45,17 @@ https://www.inget.es/gaming/que-son-los-benchmarks-y-como-te-ayudan-en-tu-experi
 ***
 
 ### Redes sociales
-Comenta cosas interesantes durante la actividad sobre el proyecto. El equipo que mejor utilice las redes sociales, obtendrá puntos extra y mejor puntación del proyecto final.
+Comenta cosas interesantes durante la actividad sobre el proyecto. El equipo que mejor utilice las redes sociales, obtendrá puntos extra y mejor puntación del proyecto final *AGP (Atomic Graphic Project)*.
 
 * **Instagram** Con etiquetas #FP #SMIR #proyectoBenchmarking etiquetando @practicasinformaticafp 
 * **Twitter** Con etiquetas #FP #SMIR #proyectoBenchmarking @fppracticas
 
 ### Rúbrica de evaluación en grupo (falta adaptarla)
 https://cedec.intef.es/rubrica/rubrica-para-evaluar-un-informe-hecho-en-equipo/
+
+### Reflexión y Evaluación de la tarea (Individual)
+
+* ¿Qué he aprendido?
+* ¿Qué me ha sorprendido más de estas herramientas? ¿Por qué?
+* ¿He cambiado alguna idea previa del proyecto? ¿Cuál?
+* ¿Qué me ha resultado más difícil? ¿Por qué?
