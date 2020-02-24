@@ -3,7 +3,7 @@
 [![](http://img.youtube.com/vi/kl9ErL9BM68/0.jpg)](http://www.youtube.com/watch?v=kl9ErL9BM68 "Introducción al proyecto Benchmarking")
 
 ### Temporización: 3 sesiones. (+ trabajo en casa)
-**Fecha de la entrega: 27 de febrero 2020
+**Fecha de la entrega: 27 de febrero 2020**
 
 ### Entrega: Elije un tipo
 
