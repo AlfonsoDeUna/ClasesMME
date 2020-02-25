@@ -64,4 +64,5 @@ https://cedec.intef.es/rubrica/rubrica-para-evaluar-un-informe-hecho-en-equipo/
 https://hardzone.es/2013/12/06/software-gratuito-para-medir-el-rendimiento-de-tu-ordenador/
 https://www.softzone.es/2017/05/29/aplicaciones-benchmark-gpu/
 https://hardzone.es/programas-para-testear-monitorizar-y-comprobar-el-rendimiento-de-tu-pc/
+https://www.softzone.es/2019/03/07/mejores-aplicaciones-benchmark-pc/
 
