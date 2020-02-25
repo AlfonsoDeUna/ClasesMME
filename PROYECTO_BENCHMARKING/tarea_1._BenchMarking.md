@@ -59,3 +59,9 @@ https://cedec.intef.es/rubrica/rubrica-para-evaluar-un-informe-hecho-en-equipo/
 * ¿Qué me ha sorprendido más de estas herramientas? ¿Por qué?
 * ¿He cambiado alguna idea previa del proyecto? ¿Cuál?
 * ¿Qué me ha resultado más difícil? ¿Por qué?
+
+## links de benchmarking
+https://hardzone.es/2013/12/06/software-gratuito-para-medir-el-rendimiento-de-tu-ordenador/
+https://www.softzone.es/2017/05/29/aplicaciones-benchmark-gpu/
+https://hardzone.es/programas-para-testear-monitorizar-y-comprobar-el-rendimiento-de-tu-pc/
+
