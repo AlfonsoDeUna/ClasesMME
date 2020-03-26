@@ -1,4 +1,4 @@
-#Tarjetas de expansión
+# Tarjetas de expansión
 ---
 
 ## ¿Qué es una tarjeta de expansión?
