@@ -2,6 +2,8 @@
 ---
 
 ## ¿Qué es una tarjeta de expansión?
+La tarjeta de expansión es un tipo de dispositivo con diversos circuitos integrados (chips) y controladores, que insertada en su correspondiente ranura de expansión sirve para expandir las capacidades de la computadora a la que se inserta.
+https://es.wikipedia.org/wiki/Tarjeta_de_expansi%C3%B3n
 
 ## ¿Qué tipo de tarjetas de expansión existen? (Si lo vemos como interfaz)
 https://hardzone.es/tutoriales/componentes/tarjetas-expansion-montar-pc/
