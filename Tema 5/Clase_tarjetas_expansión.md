@@ -15,13 +15,13 @@ https://www.adslzone.net/2017/08/25/placas-base-tarjeta-grafica-integrada-igp/
 ### Partes de una tarjeta gráfica.
 https://2.bp.blogspot.com/-gnrEUBmidMA/XFBFWg_xP8I/AAAAAAAAAbI/UlWbP_J_kNYIdfJ2AyrI1-HINwmaFawkgCLcBGAs/s1600/TARJETA%2BGRAFICA%2BPARTES.png
 
-* GPU
+* **GPU**
 https://es.wikipedia.org/wiki/Unidad_de_procesamiento_gr%C3%A1fico
 
-* VRAM
+* **VRAM**
 https://www.pccomponentes.com/vram-memoria-de-video
 
-* RAMDAC
+* **RAMDAC**
 https://en.wikipedia.org/wiki/RAMDAC
 https://es.wikipedia.org/wiki/Video_Graphics_Array
 https://timetoexplore.net/blog/arty-fpga-vga-verilog-01
