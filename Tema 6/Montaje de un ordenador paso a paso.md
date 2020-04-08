@@ -38,6 +38,11 @@ Pero si tenemos que quitar la pasta térmica ¿Qué método seguimos entonces?
 * https://www.youtube.com/watch?v=_HCjF8FiPn0
 * ¿Cómo saber qué socket tiene instalado mi ordenador sin abrilo? --> CPUZ
 
+Es importante conocer perfectamente bien el zócalo, aunque creamos que a simple vista se pueda insertar el micro
+Cada micro tiene una tensión concreta que podemos dañar de por vida.
+
+
+
 #### Otros temas de interes
 
 * Errores típicos en el montaje de un ordenador Gaming
