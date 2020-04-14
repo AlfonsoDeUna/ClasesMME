@@ -33,6 +33,8 @@ En este tema trataremos la secuencia de montaje de un ordenador de manera muy de
 #### 3. Método- técnica para aplicar la pasta térmica (mejor)
 * https://www.youtube.com/watch?v=Ci8Frcm18aY
 * https://www.youtube.com/watch?v=Gsm02mt30vU
+https://www.youtube.com/watch?v=JYwHB2P6GmM
+https://www.youtube.com/watch?v=-hNgFNH7zhQ (inglés) y vemos sí es correcta o no.
 
 Pero si tenemos que quitar la pasta térmica ¿Qué método seguimos entonces?
 * https://www.youtube.com/watch?v=_HCjF8FiPn0
