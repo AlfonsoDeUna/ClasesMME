@@ -35,7 +35,10 @@
 
 * ¿Qué puedo hacer con esto?
 
----
+--- 
+### IDEAS GENERADAS EN EL BRAINSTORMING DEL PROYECTO
+
+[![INTRO VÍDEO](Screenshot_1.jpg)]( "INTRO VÍDEO")
 
 ### Disipadores
 
