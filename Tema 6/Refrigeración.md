@@ -92,3 +92,8 @@ Pueden ser otras redes sociales (pero lo tenéis que comentar para que os diga l
 
 Se grabará y se realizará un directo desde el canal de Youtube o bien se grabará
 Todo el equipo tendrá que hablar durante la charla
+
+# OTROS LINKS
+
+### Scraping reseñas Amazon
+https://github.com/shreyas707/Amazon-Review-Scraper
