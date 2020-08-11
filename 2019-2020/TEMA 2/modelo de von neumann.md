@@ -3,6 +3,8 @@
 ## ENSAMBLADOR EN LINUX PARA CONOCER EL LENGUAJE MÁQUINA
 https://riptutorial.com/es/assembly
 
+* vídeo explicativo modelo de Von Neumann sumando dos números.
+
 ## DEL LIBRO DE TEXTO
 TEMA 2 PRIMERA PARTE
 
