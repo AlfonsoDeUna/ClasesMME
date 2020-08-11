@@ -1,5 +1,21 @@
-# Ejemplo práctico del modelo de Von Neumann. 
-## Ejercicios que se desarrollan con un simulador de Von Neumann
+# DEL MODELO DE VON NEUMANN AL INFINITO PASANDO POR EL ANÁLISIS DE MALWARE 
+
+## ENSAMBLADOR EN LINUX PARA CONOCER EL LENGUAJE MÁQUINA
+https://riptutorial.com/es/assembly
+
+## DEL LIBRO DE TEXTO
+TEMA 2 PRIMERA PARTE
+
+## TEORÍA DEL MODELO DE VON NEUMANN
+http://docencia.ac.upc.edu/eines/MR/DOCUMENTOS/Transparencies/slides_CPU.pdf
+
+## OTROS SIMULADORER
+
+### MAKINITO
+* https://fvarrui.github.io/Makinito/
+![Alt text](https://fvarrui.github.io/Makinito/images/interfaz.png?raw=true "MAKINITO")
+
+## Ejercicios que se desarrollan con un simulador de Von Neumann ALTERVISTA
 
 [Enlace simulador Von Neumann] http://vnsimulator.altervista.org/
 
