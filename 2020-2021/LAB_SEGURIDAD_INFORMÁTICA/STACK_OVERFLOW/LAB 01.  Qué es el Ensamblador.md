@@ -34,6 +34,16 @@ http://materials.cv.uoc.edu/daisy/Materials/PID_00218273/html5/img/75573_m6_004.
 
 ![ESTRUCTURA EN MEMORIA DE UN PROGRAMA](https://lh3.googleusercontent.com/proxy/zPEwp03rIouuzddH3hl6_x0Dtofch541di8ZLDYvWcOSf3MxwZedGsth86px0OCvAQIDUkUy2NQFZW4UZ6ajhvwpmu-VTNveiCSLu76gJuhYYJ3vHyG8MexhI6c7Gei7hxY "ESTRUCTURA EN MEMORIA DE UN PROGRAMA")
 
+```assembly
+
+section .data
+ 
+section .bss
+ 
+section .text
+
+```
+
 
 ## PILA DEL SISTEMA
 
