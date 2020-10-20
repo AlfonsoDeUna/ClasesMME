@@ -1,5 +1,8 @@
 # QUÉ ES EL ENSAMBLADOR
 
+PASAMOS DE ESTO: https://juguetes10.com/wp-content/uploads/los-10-mejores-ordenadores-para-ninos.jpg
+A ESTO: https://devmagazine.co/wp-content/uploads/2018/08/Que-nunca-te-falten-estos-productos-al-programar.jpg
+
 ## ARQUITECTURA DE VON NEUMANN VS ARQUITECTURA X86
 
 ![ARQUITECTURA x86](https://mdanilo2015.files.wordpress.com/2014/11/85352-bus-bmp.jpg "ARQUITECTURA x86")
