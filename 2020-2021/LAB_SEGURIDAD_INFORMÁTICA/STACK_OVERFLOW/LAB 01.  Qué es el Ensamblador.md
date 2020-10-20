@@ -43,7 +43,12 @@ section .bss
 section .text
 
 ```
+---
 
+## NUESTRO PRIMER PROGRAMA EN ENSAMBLADOR
+
+![FIRST PROGRAM](http://materials.cv.uoc.edu/daisy/Materials/PID_00218273/html5/img/75573_m6_032.gif
+ "FIRST PROGRAM")
 
 ## PILA DEL SISTEMA
 
