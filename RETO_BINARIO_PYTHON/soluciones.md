@@ -51,3 +51,15 @@ number_of_dots = number_of_dots * 2
 print (number_of_dots)
 
 ```
+
+## 1.4
+
+
+```python
+
+number_of_dots = 1
+while number_of_dots <= 16:
+    print (number_of_dots)
+    number_of_dots = number_of_dots * 2
+    
+```
